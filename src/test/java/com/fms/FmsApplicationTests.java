@@ -1,10 +1,10 @@
-package com.capstone.fmssystem;
+package com.fms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FmsApplicationTest {
+class FmsApplicationTests {
 
 	@Test
 	void contextLoads() {
